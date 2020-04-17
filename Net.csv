@@ -1,354 +1,354 @@
-﻿NET,SCHOOL,CONFERENCE,RECORD
-1,Gonzaga,WCC,31-2
-2,Kansas,Big 12,27-3
-3,Dayton,Atlantic 10,29-2
-4,San Diego St.,Mountain West,29-2
-5,Baylor,Big 12,26-4
-6,Duke,ACC,25-6
-7,Michigan St.,Big Ten,22-9
-8,Louisville,ACC,24-7
-9,BYU,WCC,23-8
-10,Florida St.,ACC,26-5
-11,Creighton,Big East,23-7
-12,Oregon,Pac-12,24-7
-13,Villanova,Big East,24-7
-14,Arizona,Pac-12,21-11
-15,Seton Hall,Big East,21-9
-16,Ohio St.,Big Ten,21-10
-17,West Virginia,Big 12,21-10
-18,Maryland,Big Ten,24-7
-19,Butler,Big East,22-9
-20,Houston,AAC,23-8
-21,Kentucky,SEC,25-6
-22,Texas Tech,Big 12,18-13
-23,Wisconsin,Big Ten,21-10
-24,Michigan,Big Ten,19-12
-25,Colorado,Pac-12,21-11
-26,Marquette,Big East,18-12
-27,Auburn,SEC,25-6
-28,LSU,SEC,21-10
-29,Florida,SEC,19-12
-30,Rutgers,Big Ten,19-11
-31,Saint Mary's (CA),WCC,25-8
-32,Purdue,Big Ten,16-15
-33,Stanford,Pac-12,20-12
-34,Iowa,Big Ten,20-11
-35,Penn St.,Big Ten,21-10
-36,ETSU,SoCon,27-4
-37,Providence,Big East,19-12
-38,Richmond,Atlantic 10,24-7
-39,Illinois,Big Ten,20-10
-40,Utah St.,Mountain West,24-8
-41,Wichita St.,AAC,23-8
-42,Minnesota,Big Ten,15-16
-43,Arkansas,SEC,20-12
-44,Virginia,ACC,23-7
-45,Southern California,Pac-12,22-9
-46,Oklahoma,Big 12,19-12
-47,Xavier,Big East,19-13
-48,UNI,MVC,23-6
-49,Saint Louis,Atlantic 10,22-8
-50,Mississippi St.,SEC,20-11
-51,Cincinnati,AAC,20-10
-52,Notre Dame,ACC,20-12
-53,NC State,ACC,20-12
-54,Arizona St.,Pac-12,20-11
-55,Alabama,SEC,16-15
-56,Indiana,Big Ten,20-12
-57,Rhode Island,Atlantic 10,21-9
-58,Washington,Pac-12,15-17
-59,Memphis,AAC,21-10
-60,UConn,AAC,19-12
-61,Syracuse,ACC,18-14
-62,St. John's (NY),Big East,17-15
-63,Tennessee,SEC,17-14
-64,Oklahoma St.,Big 12,18-14
-65,Georgetown,Big East,15-17
-66,South Carolina,SEC,18-13
-67,Liberty,ASUN,28-4
-68,VCU,Atlantic 10,18-13
-69,Yale,Ivy League,21-7
-70,Texas,Big 12,19-12
-71,Oregon St.,Pac-12,18-13
-72,Georgia Tech,ACC,16-14
-73,Akron,MAC,22-7
-74,Furman,SoCon,22-7
-75,Davidson,Atlantic 10,16-14
-76,UCLA,Pac-12,18-12
-77,SFA,Southland,25-3
-78,Tulsa,AAC,21-10
-79,Vermont,America East,25-7
-80,North Carolina,ACC,14-19
-81,Clemson,ACC,16-15
-82,UNC Greensboro,SoCon,21-9
-83,San Francisco,WCC,21-12
-84,Missouri,SEC,15-16
-85,Utah,Pac-12,16-15
-86,DePaul,Big East,15-16
-87,Louisiana Tech,C-USA,20-8
-88,SMU,AAC,19-11
-89,Nevada,Mountain West,19-12
-90,Boise St.,Mountain West,19-12
-91,Georgia,SEC,15-16
-92,Virginia Tech,ACC,16-16
-93,TCU,Big 12,15-16
-94,Duquesne,Atlantic 10,21-9
-95,North Texas,C-USA,18-11
-96,Iowa St.,Big 12,20-Dec
-97,Ole Miss,SEC,15-17
-98,Loyola Chicago,MVC,20-11
-99,Kansas St.,Big 12,21-Nov
-100,Northern Colo.,Big Sky,20-9
-101,Belmont,OVC,25-7
-102,Bradley,MVC,22-11
-103,Miami (FL),ACC,15-16
-104,New Mexico St.,WAC,23-6
-105,Indiana St.,MVC,17-12
-106,Colorado St.,Mountain West,19-12
-107,Harvard,Ivy League,20-8
-108,UNLV,Mountain West,17-15
-109,Pittsburgh,ACC,16-17
-110,Pacific,WCC,21-10
-111,Wake Forest,ACC,13-18
-112,Ball St.,MAC,17-13
-113,Texas A&M,SEC,16-14
-114,UC Irvine,Big West,19-11
-115,Washington St.,Pac-12,16-16
-116,Temple,AAC,14-17
-117,Kent St.,MAC,18-12
-118,Hofstra,CAA,25-8
-119,Missouri St.,MVC,16-17
-120,Texas St.,Sun Belt,19-11
-121,Colgate,Patriot,24-9
-122,St. Bonaventure,Atlantic 10,18-12
-123,Western Ky.,C-USA,19-10
-124,UCF,AAC,16-14
-125,South Fla.,AAC,14-17
-126,South Dakota St.,Summit League,20-10
-127,Wright St.,Horizon,23-7
-128,Northeastern,CAA,17-16
-129,UT Arlington,Sun Belt,18-Dec
-130,North Dakota St.,Summit League,23-8
-131,Pepperdine,WCC,16-16
-132,Massachusetts,Atlantic 10,14-17
-133,Murray St.,OVC,21-9
-134,Georgia St.,Sun Belt,17-13
-135,Eastern Wash.,Big Sky,21-8
-136,Western Caro.,SoCon,17-12
-137,Toledo,MAC,16-15
-138,Valparaiso,MVC,18-16
-139,California,Pac-12,14-18
-140,Little Rock,Sun Belt,20-10
-141,Montana,Big Sky,17-12
-142,Vanderbilt,SEC,21-Nov
-143,New Mexico,Mountain West,18-14
-144,Oral Roberts,Summit League,13-14
-145,Santa Clara,WCC,18-13
-146,Buffalo,MAC,19-12
-147,Ga. Southern,Sun Belt,18-13
-148,Winthrop,Big South,22-10
-149,Penn,Ivy League,15-11
-150,Northern Ky.,Horizon,21-9
-151,Siena,MAAC,20-10
-152,Col. of Charleston,CAA,16-14
-153,Chattanooga,SoCon,18-13
-154,Towson,CAA,17-13
-155,Wofford,SoCon,17-16
-156,Drake,MVC,18-14
-157,Boston College,ACC,13-19
-158,Ohio,MAC,15-15
-159,Bowling Green,MAC,19-10
-160,Boston U.,Patriot,20-13
-161,Fresno St.,Mountain West,19-Oct
-162,Southern Ill.,MVC,15-16
-163,Austin Peay,OVC,19-12
-164,Northwestern,Big Ten,23-Aug
-165,William & Mary,CAA,20-11
-166,Princeton,Ivy League,13-13
-167,George Mason,Atlantic 10,17-15
-168,Tulane,AAC,18-Dec
-169,South Alabama,Sun Belt,17-11
-170,FIU,C-USA,16-13
-171,La Salle,Atlantic 10,15-15
-172,Marshall,C-USA,16-15
-173,Old Dominion,C-USA,13-19
-174,Northern Ill.,MAC,17-13
-175,North Florida,ASUN,19-12
-176,Charlotte,C-USA,16-13
-177,UC Santa Barbara,Big West,19-10
-178,Saint Francis (PA),NEC,21-10
-179,Portland St.,Big Sky,16-14
-180,Delaware,CAA,21-11
-181,Appalachian St.,Sun Belt,16-15
-182,South Dakota,Summit League,17-12
-183,Radford,Big South,19-11
-184,Southern Utah,Big Sky,15-15
-185,Rider,MAAC,18-12
-186,Sacramento St.,Big Sky,14-14
-187,Mercer,SoCon,15-15
-188,Coastal Carolina,Sun Belt,14-17
-189,Stony Brook,America East,19-13
-190,Sacred Heart,NEC,19-13
-191,Eastern Mich.,MAC,16-Dec
-192,Nicholls St.,Southland,17-10
-193,Fla. Atlantic,C-USA,14-15
-194,Abilene Christian,Southland,16-11
-195,UTEP,C-USA,14-15
-196,Illinois St.,MVC,21-Sep
-197,American,Patriot,16-14
-198,Central Mich.,MAC,18-Nov
-199,Nebraska,Big Ten,25-Jul
-200,California Baptist,WAC,17-10
-201,Prairie View,SWAC,17-13
-202,Arkansas St.,Sun Belt,14-16
-203,Robert Morris,NEC,19-14
-204,UTSA,C-USA,19-Oct
-205,UAB,C-USA,17-13
-206,Miami (OH),MAC,19-Nov
-207,LMU (CA),WCC,21-Oct
-208,East Carolina,AAC,20-Nov
-209,Monmouth,MAAC,18-13
-210,UC Riverside,Big West,14-15
-211,Dartmouth,Ivy League,17-Nov
-212,Gardner-Webb,Big South,14-16
-213,Saint Peter's,MAAC,18-12
-214,Rice,C-USA,13-17
-215,Hawaii,Big West,16-13
-216,Merrimack,NEC,19-11
-217,UIC,Horizon,17-17
-218,UC Davis,Big West,18-Dec
-219,George Washington,Atlantic 10,20-Dec
-220,Air Force,Mountain West,20-Nov
-221,Green Bay,Horizon,15-16
-222,Oakland,Horizon,13-19
-223,Lafayette,Patriot,18-12
-224,Iona,MAAC,17-Dec
-225,Brown,Ivy League,14-12
-226,Seattle U,WAC,15-Dec
-227,Northern Ariz.,Big Sky,14-14
-228,Sam Houston St.,Southland,14-13
-229,Montana St.,Big Sky,14-15
-230,Louisiana,Sun Belt,13-19
-231,San Diego,WCC,23-Aug
-232,Youngstown St.,Horizon,16-15
-233,CSUN,Big West,13-17
-234,Omaha,Summit League,15-16
-235,Western Mich.,MAC,19-Nov
-236,UMBC,America East,17-Dec
-237,Drexel,CAA,13-19
-238,New Hampshire,America East,13-15
-239,Bucknell,Patriot,14-20
-240,Saint Joseph's,Atlantic 10,26-Jun
-241,Eastern Ill.,OVC,15-15
-242,Bryant,NEC,14-17
-243,Navy,Patriot,13-16
-244,Fordham,Atlantic 10,22-Sep
-245,Quinnipiac,MAAC,15-15
-246,Hartford,America East,16-15
-247,Norfolk St.,MEAC,13-14
-248,Loyola Maryland,Patriot,14-17
-249,North Dakota,Summit League,18-Dec
-250,Utah Valley,WAC,19-Aug
-251,Jacksonville,ASUN,18-Dec
-252,Kansas City,WAC,13-14
-253,Canisius,MAAC,20-Dec
-254,Lipscomb,ASUN,14-16
-255,La.-Monroe,Sun Belt,20-Jul
-256,N.C. Central,MEAC,15-13
-257,UMass Lowell,America East,19-Dec
-258,Campbell,Big South,13-16
-259,Elon,CAA,21-Oct
-260,UTRGV,WAC,16-Oct
-261,Cal St. Fullerton,Big West,20-Sep
-262,Milwaukee,Horizon,19-Oct
-263,N.C. A&T,MEAC,16-15
-264,Evansville,MVC,23-Aug
-265,Southern U.,SWAC,15-15
-266,Army West Point,Patriot,14-15
-267,Lamar University,Southland,14-15
-268,Albany (NY),America East,13-18
-269,Manhattan,MAAC,13-18
-270,Tennessee St.,OVC,16-15
-271,Wyoming,Mountain West,24-Aug
-272,LIU,NEC,14-18
-273,Weber St.,Big Sky,20-Sep
-274,Troy,Sun Belt,22-Jul
-275,Portland,WCC,23-Jul
-276,Texas Southern,SWAC,15-16
-277,UNC Asheville,Big South,13-16
-278,Grand Canyon,WAC,13-16
-279,Idaho St.,Big Sky,22-Jun
-280,James Madison,CAA,21-Aug
-281,Fairleigh Dickinson,NEC,19-Oct
-282,Purdue Fort Wayne,Summit League,19-Nov
-283,CSU Bakersfield,WAC,19-Sep
-284,Jacksonville St.,OVC,19-Nov
-285,Fairfield,MAAC,20-Dec
-286,Bethune-Cookman,MEAC,13-14
-287,San Jose St.,Mountain West,24-Jun
-288,Lehigh,Patriot,21-Sep
-289,Jackson St.,SWAC,13-17
-290,Southern Miss.,C-USA,22-Jun
-291,Eastern Ky.,OVC,14-17
-292,VMI,SoCon,24-Jun
-293,Cornell,Ivy League,20-May
-294,Stetson,ASUN,14-17
-295,McNeese,Southland,17-Nov
-296,Middle Tenn.,C-USA,23-May
-297,UNCW,CAA,22-Jul
-298,North Ala.,ASUN,17-Nov
-299,Mount St. Mary's,NEC,21-Oct
-300,Grambling,SWAC,13-15
-301,Northwestern St.,Southland,15-Dec
-302,Longwood,Big South,18-Dec
-303,Florida A&M,MEAC,15-Dec
-304,Cleveland St.,Horizon,21-Oct
-305,St. Francis Brooklyn,NEC,18-Dec
-306,Long Beach St.,Big West,21-Sep
-307,Detroit Mercy,Horizon,23-Aug
-308,Hampton,Big South,19-Dec
-309,Niagara,MAAC,20-Dec
-310,NJIT,ASUN,21-Aug
-311,Marist,MAAC,23-Jul
-312,FGCU,ASUN,22-Aug
-313,Morgan St.,MEAC,16-Dec
-314,A&M-Corpus Christi,Southland,18-Dec
-315,Central Ark.,Southland,21-Sep
-316,Charleston So.,Big South,18-Dec
-317,Columbia,Ivy League,24-May
-318,Maine,America East,22-Aug
-319,USC Upstate,Big South,20-Nov
-320,Idaho,Big Sky,24-Jun
-321,Morehead St.,OVC,19-Nov
-322,Coppin St.,MEAC,20-Nov
-323,Cal Poly,Big West,23-May
-324,Alcorn,SWAC,15-Nov
-325,Samford,SoCon,23-Jul
-326,Denver,Summit League,24-Jun
-327,IUPUI,Horizon,25-May
-328,Wagner,NEC,21-Jul
-329,South Carolina St.,MEAC,18-Sep
-330,Presbyterian,Big South,22-Aug
-331,Tennessee Tech,OVC,22-Jul
-332,Binghamton,America East,19-Aug
-333,High Point,Big South,23-Jul
-334,Western Ill.,Summit League,21-Mar
-335,New Orleans,Southland,21-May
-336,SIUE,OVC,23-Jun
-337,Alabama St.,SWAC,24-Aug
-338,UT Martin,OVC,20-Jul
-339,The Citadel,SoCon,24-Mar
-340,Alabama A&M,SWAC,22-Aug
-341,Southeastern La.,Southland,23-May
-342,Southeast Mo. St.,OVC,24-May
-343,Holy Cross,Patriot,28-Mar
-344,Houston Baptist,Southland,25-Apr
-345,Delaware St.,MEAC,25-May
-346,UIW,Southland,22-Jun
-347,Central Conn. St.,NEC,27-Mar
-348,Ark.-Pine Bluff,SWAC,26-Mar
-349,Howard,MEAC,28-Mar
-350,UMES,MEAC,27-Apr
-351,Mississippi Val.,SWAC,27-Mar
-352,Kennesaw St.,ASUN,28-Jan
-353,Chicago St.,WAC,25-Jan
+﻿,SCHOOL,,
+194,`ABILENE CHR.`,,
+220,`AIR FORCE`,,
+340,`ALABAMA A&M`,,
+337,`ALABAMA ST.`,,
+324,`ALCORN ST.`,,
+181,`APP. ST.`,,
+54,`ARIZONA ST.`,,
+348,`ARK.-PINE BLUFF`,,
+202,`ARKANSAS ST.`,,
+163,`AUSTIN PEAY`,,
+112,`BALL ST.`,,
+286,`BETHUNE-COOK.`,,
+90,`BOISE ST.`,,
+157,`BOSTON COLLEGE`,,
+160,`BOSTON U.`,,
+159,`BOWLING GREEN`,,
+198,`C. MICHIGAN`,,
+200,`CAL BAPTIST`,,
+323,`CAL POLY`,,
+283,`CAL-BAKER.`,,
+315,`CENT. ARKANSAS`,,
+316,`CHARLESTON SO.`,,
+353,`CHICAGO ST.`,,
+304,`CLEV. ST.`,,
+188,`COASTAL CAROLINA`,,
+106,`COLORADO ST.`,,
+322,`COPPIN ST.`,,
+345,`DELAWARE ST.`,,
+241,`E. ILLINOIS`,,
+291,`E. KENTUCKY`,,
+191,`E. MICHIGAN`,,
+135,`E. WASHINGTON`,,
+208,`EAST CAROLINA`,,
+281,`F. DICKINSON`,,
+303,`FLORIDA A&M`,,
+10,`FLORIDA ST.`,,
+161,`FRESNO ST.`,,
+212,`G-WEBB`,,
+147,`GA. SOUTHERN`,,
+167,`GEORGE MASON`,,
+219,`GEORGE WASH.`,,
+134,`GEORGIA ST.`,,
+72,`GEORGIA TECH`,,
+278,`GRAND CANYON`,,
+221,`GREEN BAY`,,
+333,`HIGH POINT`,,
+343,`HOLY CROSS`,,
+344,`HOUSTON BAP.`,,
+279,`IDAHO ST.`,,
+217,`ILL.-CHICAGO`,,
+196,`ILLINOIS ST.`,,
+346,`INCARNATE WORD`,,
+105,`INDIANA ST.`,,
+96,`IOWA ST.`,,
+289,`JACKSON ST.`,,
+280,`JAMES MADISON`,,
+284,`JAX. STATE`,,
+99,`KANSAS ST.`,,
+352,`KENNESAW ST.`,,
+117,`KENT ST.`,,
+171,`LA SALLE`,,
+140,`LITTLE ROCK`,,
+87,`LOUISIANA TECH`,,
+98,`LOYOLA-CHI.`,,
+248,`LOYOLA-MD.`,,
+295,`MCNEESE ST.`,,
+350,`MD.-E. SHORE`,,
+103,`MIAMI (FLA.)`,,
+206,`MIAMI (OHIO)`,,
+7,`MICHIGAN ST.`,,
+296,`MIDDLE TENN.`,,
+351,`MISS VALLEY ST.`,,
+50,`MISS. STATE`,,
+119,`MISSOURI ST.`,,
+229,`MONTANA ST.`,,
+321,`MOREHEAD ST.`,,
+313,`MORGAN ST.`,,
+299,`MT ST MARY'S`,,
+133,`MURRAY ST.`,,
+298,`N. ALABAMA`,,
+227,`N. ARIZONA`,,
+80,`N. CAROLINA`,,
+100,`N. COLORADO`,,
+130,`N. DAK. ST.`,,
+174,`N. ILLINOIS`,,
+150,`N. KENTUCKY`,,
+104,`N. MEX. ST.`,,
+310,`N.J. TECH`,,
+263,`NC A&T`,,
+256,`NC CENTRAL`,,
+53,`NC STATE`,,
+234,`NEB.-OMAHA`,,
+238,`NEW HAMP.`,,
+143,`NEW MEXICO`,,
+335,`NEW ORLEANS`,,
+192,`NICHOLLS ST.`,,
+247,`NORFOLK ST.`,,
+249,`NORTH DAKOTA`,,
+175,`NORTH FLORIDA`,,
+95,`NORTH TEXAS`,,
+48,`NORTHERN IOWA`,,
+301,`NORTHWESTERN ST.`,,
+52,`NOTRE DAME`,,
+16,`OHIO ST.`,,
+64,`OKLAHOMA ST.`,,
+173,`OLD DOMINION`,,
+97,`OLE MISS`,,
+144,`ORAL ROBERTS`,,
+71,`OREGON ST.`,,
+35,`PENN ST.`,,
+179,`PORTLAND ST.`,,
+201,`PRAIRIE VIEW`,,
+57,`RHODE ISLAND`,,
+203,`ROBERT MORRIS`,,
+126,`S. DAK. ST.`,,
+162,`S. ILLINOIS`,,
+186,`SACRAMENTO ST.`,,
+190,`SACRED HEART`,,
+240,`SAINT JOSEPH'S`,,
+49,`SAINT LOUIS`,,
+31,`SAINT MARY'S`,,
+228,`SAM HOU. ST.`,,
+4,`SAN DIEGO ST`,,
+231,`SAN DIEGO`,,
+83,`SAN FRAN.`,,
+287,`SAN JOSE ST.`,,
+145,`SANTA CLARA`,,
+329,`SC STATE`,,
+319,`SC UPSTATE`,,
+341,`SE LOUISIANA`,,
+342,`SE MISSOURI ST.`,,
+15,`SETON HALL`,,
+77,`SF AUSTIN`,,
+290,`SO. MISS`,,
+184,`SO. UTAH`,,
+169,`SOUTH ALABAMA`,,
+66,`SOUTH CAROLINA`,,
+182,`SOUTH DAKOTA`,,
+125,`SOUTH FLORIDA`,,
+265,`SOUTHERN U.`,,
+122,`ST. BONA.`,,
+305,`ST. FRAN.-NY`,,
+62,`ST. JOHN'S`,,
+213,`ST. PETER'S`,,
+189,`STONY BROOK`,,
+331,`TENN. TECH`,,
+270,`TENNESSEE ST.`,,
+314,`TEXAS A&M-CC`,,
+113,`TEXAS A&M`,,
+276,`TEXAS SO.`,,
+120,`TEXAS ST.`,,
+22,`TEXAS TECH`,,
+339,`THE CITADEL`,,
+218,`UC DAVIS`,,
+114,`UC IRVINE`,,
+210,`UC RIVERSIDE`,,
+255,`UL-MONROE`,,
+257,`UMASS LOWELL`,,
+277,`UNC-ASH.`,,
+297,`UNC-WILM.`,,
+338,`UT MARTIN`,,
+129,`UT-ARLINGTON`,,
+260,`UT-RIO GRANDE VALLEY`,,
+204,`UT-SAN ANTONIO`,,
+40,`UTAH ST.`,,
+250,`UTAH VALLEY`,,
+92,`VA. TECH`,,
+136,`W. CAROLINA`,,
+334,`W. ILLINOIS`,,
+123,`W. KENTUCKY`,,
+235,`W. MICHIGAN`,,
+17,`W. VIRGINIA`,,
+111,`WAKE FOREST`,,
+115,`WASHINGTON ST.`,,
+273,`WEBER ST.`,,
+41,`WICHITA ST.`,,
+165,`WILLIAM & MARY`,,
+127,`WRIGHT ST.`,,
+232,`YOUNGSTOWN ST.`,,
+73,AKRON,,
+55,ALABAMA,,
+268,ALBANY,,
+197,AMERICAN,,
+14,ARIZONA,,
+43,ARKANSAS,,
+266,ARMY,,
+27,AUBURN,,
+5,BAYLOR,,
+101,BELMONT,,
+332,BINGHAMTON,,
+102,BRADLEY,,
+225,BROWN,,
+242,BRYANT,,
+239,BUCKNELL,,
+146,BUFFALO,,
+19,BUTLER,,
+9,BYU,,
+139,CALIFORNIA,,
+258,CAMPBELL,,
+253,CANISIUS,,
+347,CCSU,,
+152,CHARLESTON,,
+176,CHARLOTTE,,
+153,CHATTANOOGA,,
+51,CINCINNATI,,
+81,CLEMSON,,
+121,COLGATE,,
+25,COLORADO,,
+317,COLUMBIA,,
+60,CONNECTICUT,,
+293,CORNELL,,
+11,CREIGHTON,,
+261,CSFULLERTON,,
+233,CSNORTHRIDGE,,
+211,DARTMOUTH,,
+75,DAVIDSON,,
+3,DAYTON,,
+180,DELAWARE,,
+326,DENVER,,
+86,DEPAUL,,
+307,DETROIT,,
+156,DRAKE,,
+237,DREXEL,,
+6,DUKE,,
+94,DUQUESNE,,
+259,ELON,,
+36,ETSU,,
+264,EVANSVILLE,,
+285,FAIRFIELD,,
+193,FAU,,
+312,FGCU,,
+170,FIU,,
+29,FLORIDA,,
+244,FORDHAM,,
+74,FURMAN,,
+65,GEORGETOWN,,
+91,GEORGIA,,
+1,GONZAGA,,
+300,GRAMBLING,,
+308,HAMPTON,,
+246,HARTFORD,,
+107,HARVARD,,
+215,HAWAII,,
+118,HOFSTRA,,
+20,HOUSTON,,
+349,HOWARD,,
+320,IDAHO,,
+39,ILLINOIS,,
+56,INDIANA,,
+224,IONA,,
+34,IOWA,,
+327,IUPUI,,
+251,JACKSONVILLE,,
+2,KANSAS,,
+21,KENTUCKY,,
+223,LAFAYETTE,,
+267,LAMAR,,
+306,LBSU,,
+288,LEHIGH,,
+67,LIBERTY,,
+254,LIPSCOMB,,
+272,LIU,,
+207,LMU,,
+302,LONGWOOD,,
+230,LOUISIANA,,
+8,LOUISVILLE,,
+28,LSU,,
+318,MAINE,,
+269,MANHATTAN,,
+311,MARIST,,
+26,MARQUETTE,,
+172,MARSHALL,,
+18,MARYLAND,,
+132,MASSACHUSETTS,,
+59,MEMPHIS,,
+187,MERCER,,
+216,MERRIMACK,,
+24,MICHIGAN,,
+262,MILWAUKEE,,
+42,MINNESOTA,,
+84,MISSOURI,,
+209,MONMOUTH,,
+141,MONTANA,,
+243,NAVY,,
+199,NEBRASKA,,
+89,NEVADA,,
+309,NIAGARA,,
+128,NORTHEASTERN,,
+164,NORTHWESTERN,,
+222,OAKLAND,,
+158,OHIO,,
+46,OKLAHOMA,,
+12,OREGON,,
+110,PACIFIC,,
+149,PENN,,
+131,PEPPERDINE,,
+282,PFW,,
+109,PITTSBURGH,,
+275,PORTLAND,,
+330,PRESBYTERIAN,,
+166,PRINCETON,,
+37,PROVIDENCE,,
+32,PURDUE,,
+245,QUINNIPIAC,,
+183,RADFORD,,
+214,RICE,,
+38,RICHMOND,,
+185,RIDER,,
+30,RUTGERS,,
+325,SAMFORD,,
+226,SEATTLE,,
+151,SIENA,,
+336,SIUE,,
+88,SMU,,
+33,STANFORD,,
+294,STETSON,,
+61,SYRACUSE,,
+93,TCU,,
+116,TEMPLE,,
+63,TENNESSEE,,
+70,TEXAS,,
+137,TOLEDO,,
+154,TOWSON,,
+274,TROY,,
+168,TULANE,,
+78,TULSA,,
+205,UAB,,
+124,UCF,,
+76,UCLA,,
+177,UCSB,,
+236,UMBC,,
+252,UMKC,,
+82,UNCG,,
+108,UNLV,,
+45,USC,,
+85,UTAH,,
+195,UTEP,,
+138,VALPARAISO,,
+142,VANDERBILT,,
+68,VCU,,
+79,VERMONT,,
+13,VILLANOVA,,
+44,VIRGINIA,,
+292,VMI,,
+328,WAGNER,,
+58,WASHINGTON,,
+148,WINTHROP,,
+23,WISCONSIN,,
+155,WOFFORD,,
+271,WYOMING,,
+47,XAVIER,,
+69,YALE,,
+,,,
